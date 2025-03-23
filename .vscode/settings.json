@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/weather-server/.venv/bin/python",
+  "python.analysis.extraPaths": ["./"],
+  "python.analysis.autoSearchPaths": true
+}
